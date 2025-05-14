@@ -259,6 +259,7 @@ collections:
         summary: <<summary_<<key>>>>
       - name: arr
       - name: custom
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Popular%20Films%20This%20Week.jpg
 
   "Popular Films This Month":
     letterboxd_list: 
