@@ -259,7 +259,7 @@ collections:
         summary: <<summary_<<key>>>>
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Popular%20Films%20This%20Week.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20Popular%20Films%20This%20Week/poster.jpg
 
   "Popular Films This Month":
     letterboxd_list: 
@@ -275,7 +275,7 @@ collections:
         use_popular_month: false
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Popular%20Films%20This%20Month.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20Popular%20Films%20This%20Month/poster.jpg
 
   "Popular Films This Year":
     letterboxd_list: 
@@ -291,7 +291,7 @@ collections:
         use_popular_year: false
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Popular%20Films%20This%20Year.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20Popular%20Films%20This%20Year/poster.jpg
 
   "Popular Films All Time":
     letterboxd_list: 
@@ -307,7 +307,7 @@ collections:
         use_popular_all: false
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Popular%20Films%20All%20Time.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20Popular%20Films%20All%20Time/poster.jpg
 
   "100 Most Liked Movies of All Time":
     variables:
@@ -322,7 +322,7 @@ collections:
         summary: <<summary_<<key>>>>
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/100%20Most%20Liked%20Movies%20of%20All%20Time.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20100%20Most%20Liked%20Movies%20of%20All%20Time/poster.jpg
 
   "100 Most Watched Movies of All Time":
     variables:
@@ -337,7 +337,7 @@ collections:
         summary: <<summary_<<key>>>>
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/100%20Most%20Watched%20Movies%20of%20All%20Time.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20100%20Most%20Watched%20Movies%20of%20All%20Time/poster.jpg
 
   "500 Most Watched Movies of All Time":
     variables:
@@ -353,7 +353,7 @@ collections:
         use_watched_500: false
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/500%20Most%20Watched%20Movies%20of%20All%20Time.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20500%20Most%20Watched%20Movies%20of%20All%20Time/poster.jpg
 
   "1,000 Most Watched Movies of All Time":
     variables:
@@ -369,7 +369,7 @@ collections:
         use_watched_1000: false
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/1%2C000%20Most%20Watched%20Movies%20of%20All%20Time.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%201%2C000%20Most%20Watched%20Movies%20of%20All%20Time/poster.jpg
 
   "One Million Watched Club":
     variables:
@@ -384,7 +384,7 @@ collections:
         summary: <<summary_<<key>>>>
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/One%20Million%20Watched%20Club.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20One%20Million%20Watched%20Club/poster.jpg
 
   "Two Million Watched Club":
     variables:
@@ -400,7 +400,7 @@ collections:
         use_club_two: false
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Two%20Million%20Watched%20Club.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20Two%20Million%20Watched%20Club/poster.jpg
 
   "Three Million Watched Club":
     variables:
@@ -416,7 +416,7 @@ collections:
         use_club_three: false
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Three%20Million%20Watched%20Club.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20Three%20Million%20Watched%20Club/poster.jpg
 
   "Four Million Watched Club":
     variables:
@@ -432,7 +432,7 @@ collections:
         use_club_four: false
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Four%20Million%20Watched%20Club.jpg      
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20Four%20Million%20Watched%20Club/poster.jpg    
 
   "Five Million Watched Club":
     variables:
@@ -448,4 +448,4 @@ collections:
         use_club_five: false
       - name: arr
       - name: custom
-    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Five%20Million%20Watched%20Club.jpg
+    url_poster: https://raw.githubusercontent.com/Kevin2kkelly/Kometa-Stuff/refs/heads/main/Letterboxd_Addons/posters/Letterboxd%20Five%20Million%20Watched%20Club/poster.jpg
